@@ -7,7 +7,7 @@ export default class OrxeInput extends LitElement {
   /**
    *
    * @memberof OrxeInput
-   * This property will set the prop1
+   * This property will set the prop
    */
   @property({ type: Number, reflect: true, attribute: 'prop1' })
   prop1 = 0;
